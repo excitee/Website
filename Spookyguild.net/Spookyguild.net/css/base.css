@@ -1,0 +1,94 @@
+.spook {
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.bg {
+    background-color: #131414;
+}
+
+.row {
+    max-width: 100%;
+    max-height: auto;
+}
+
+.dab {
+max-height: 34.222rem;
+max-width: auto;
+}
+
+.link {
+color: #fff;
+text-decoration: underline;
+text-decoration-color:#fff;
+}
+
+.link:hover {
+color: #fff;
+text-decoration: underline;
+text-decoration-color:#fff;
+
+}
+
+.boxhead{
+font-weight: 600;
+text-transform: capitalize;
+}
+
+.input-box {
+max-height: 25%;
+margin-bottom: 1.333rem;
+}
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.navbar {
+max-height: 6.3rem;
+}
+
+.logo {
+height: 3.333rem;
+width: 2.333rem;
+}
+
+
+.opacity-0 {
+    opacity: 0 !important;
+}
+
+.opacity-1 {
+    opacity: 0.2 !important;
+}
+
+.opacity-2 {
+    opacity: 0.4 !important;
+}
+
+.opacity-3 {
+    opacity: 0.6 !important;
+}
+
+.opacity-4 {
+    opacity: .8 !important;
+}
+
+.opacity-5 {
+    opacity: 1 !important;
+}
+
+/* Maybe even support hover opacity shifts */
+.opacity-0h5 {
+    opacity: 0.3 !important;
+    transition: opacity .25s ease-in-out !important;
+    -moz-transition: opacity .25s ease-in-out !important;
+    -webkit-transition: opacity .25s ease-in-out !important;
+}
+
+.opacity-0h5:hover {
+    opacity: 1 !important;
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Spooky - Frostmourne Alliance Guild on Warmane">
+    <meta name="author" content="Mutilate - Frostmourne">
+    <link href="img/favicon.ico" rel="icon">
+
+    <title>Spooky | Frostmourne - Alliance </title>
+    <link rel="stylesheet" href="css/base.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/animate.css" type="text/css" media="screen">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900|Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
+</head>
+
+<body class="bg">
+    <nav class="navbar navbar-dark bg-dark">
+        <a class="navbar-brand" href="/recruiting.html">
+            <img class="logo" src="img/dab.png"> Spooky</a>
+        <div class="row">
+            <small class="float-right text-muted mr-3 quote">Semi taunts Patchwerk.</small>
+        </div>
+    </nav>
+    <!-- Starting of ajax contact form -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- Starting of successful form message -->
+    <div class="col-12">
+        <div class="alert alert-success contact__msg" style="display: none" role="alert"> Your message was sent successfully. </div>
+    </div>
+    <!-- Ending of successful form message -->
+
+    <!-- Element of the ajax contact form -->
+    <div class="container-fluid">
+        <div class="block"></div>
+        <form class="contact__form" method="POST" action="/base.js">
+            <div class="form-group">
+
+                <div class="form-check mx-auto w-50 mt-5">
+                    <h4 class="boxhead text-white">Character Name:</h4>
+                    <input name="name" type="text" class="form-control" placeholder="Name" required>
+                </div>
+                <div class="form-check mx-auto w-50 pt-4">
+                    <h4 class="boxhead text-white">Armory Link:</h4>
+                    <input name="armory" type="armory" class="form-control" placeholder="https://armory.warmane.com/character/<Your Name Here>" required>
+                </div>
+                <div>
+                    <div class="form-check mx-auto w-50 pt-4">
+                        <h4 class="boxhead text-white">Role:</h4>
+                        <input name="role" type="ms" class="form-control" placeholder="Role + Offspec:" required>
+                    </div>
+                </div>
+
+                <div class="form-check mx-auto w-50 pt-4">
+                    <h4 class="boxhead text-white">Available Days: Wednesday/Friday?</h4>
+                    <input name="available" type="available" class="form-control" placeholder="Friday - Yes, Wednesday - Yes" required>
+                </div>
+
+                <div class="text-block-2 mx-auto w-50 pt-1"></div>
+                <div class="form-check col-12  mx-auto w-50 pt-4">
+                    <h4 class="boxhead text-white">Any more info?</h4>
+                    <textarea name="Info" class="form-control" rows="4" placeholder="I sell ferrets to gypsies on fridays so can't raid etc?" required></textarea>
+                    <div class="w-25 pt-4">
+                        <input name="submit" type="submit" class="btn btn-dark" value="Send Message"> </div>
+                    <div class="row mx-auto mt-5 w-100">
+                    <a class="link" href="/"><i class="fa fa-arrow-circle-left"></i> Go Back</a>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+
+
+ 
+
+    <script>
+        (function($) {
+            'use strict';
+
+            var form = $('.contact__form'),
+                message = $('.contact__msg'),
+                form_data;
+
+            // Success function
+            function done_func(response) {
+                message.fadeIn().removeClass('alert-danger').addClass('alert-success');
+                message.text(response);
+                setTimeout(function() {
+                    message.fadeOut();
+                }, 2000);
+                form.find('input:not([type="submit"]), textarea').val('');
+            }
+
+            // fail function
+            function fail_func(data) {
+                message.fadeIn().removeClass('alert-success').addClass('alert-failure');
+                message.text(data.responseText);
+                setTimeout(function() {
+                    message.fadeOut();
+                }, 2000);
+            }
+
+            form.submit(function(e) {
+                e.preventDefault();
+                form_data = $(this).serialize();
+                $.ajax({
+                        type: 'POST',
+                        url: 'https://hooks.zapier.com/hooks/catch/3754003/o57pe5x/',
+                        data: form_data
+                    })
+                    .done(done_func)
+                    .fail(fail_func);
+            });
+
+        })(jQuery);
+
+    </script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -1,0 +1,100 @@
+Meta
+
+21 Agil + 3% crit - &gems=3628:0
+
+32 Stam 2% Armor - &gems=3637:0
+
+21 crit - 3% Crit - &gems=3621:0
+
+21 Int - Mana back - &gems=3627:0
+
+
+
+Red
+
+19 SP - &gems=3448:0
+
+16 Expertise - &gems=3453:0
+
+32 AP - &gems=3449:0
+
+16 Str = &gems=3446:0
+
+16 Agil - &gems=3447:0
+
+
+Blue
+
+24 stam - &gems=3454:0
+
+
+
+Green
+
+8 hit 12 stam - &gems=3501:0
+
+8 int 5 mp5 - &gems=3510:0
+
+
+Yellow
+
+16 hit - &gems=3460:0
+
+16 int - &gems=3458:0
+
+
+
+Orange
+
+9 SP 8 Crit - &gems=3487:0
+
+9 int 8 SP - &gems=3486:0
+
+16 AP 8 Hit - &gems=3492:0
+
+8 hit 8 Expertise - &gems=3497:0
+
+8 agility 8 hit - &gems=3483:0
+
+9 SP 8 hit - &gems=3488:0
+
+9 SP 8 haste - &gems=3490:0
+
+8 str 8 hit - &gems=3478:0:0
+
+
+
+Purple
+
+9 spirit 8 SP - &gems=3472:0
+
+8 exp 12 stam - &gems=3471:0
+
+8 Dodge 12 stam - &gems=3468:0
+
+9 sp 4 mp5 - &gems=3473:0
+
+
+
+
+
+JC Only Gems 
+
+34 Expertise - &gems=3746:0
+
+39 SP - &gems=3734:0
+
+34 Str - &gems=3732:0
+
+34 haste - &gems=3739:0
+
+68 AP - &gems=3449:0
+
+51 stam - &gems=3293:0
+
+34 hit - &gems=3742:0
+
+
+Prismatic
+
+6+ all stats - &gems=3750:0

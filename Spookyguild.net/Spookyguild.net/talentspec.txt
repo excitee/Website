@@ -1,0 +1,41 @@
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_deathknight_bloodpresence.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_deathknight_frostpresence.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_deathknight_unholypresence.jpg" alt="" height="14" width="14" />
+ 
+
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_nature_starfall.jpg" alt="" height="14" width="14" />
+<img class="spec" src="https://wotlk.evowow.com/static/images/wow/icons/large/ability_druid_catform.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/ability_racial_bearform.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_nature_healingtouch.jpg" alt="" height="14" width="14" />
+
+
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_holy_magicalsentry.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_fire_firebolt02.jpg" alt="" height="14" width="14" />
+
+
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_holy_wordfortitude.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_holy_guardianspirit.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_shadow_shadowwordpain.jpg" alt="" height="14" width="14" />
+
+
+img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/ability_rogue_eviscerate.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/ability_backstab.jpg" alt="" height="14" width="14" />
+
+<img class="spec" src="https://wotlk.evowow.com/static/images/wow/icons/large/ability_warrior_savageblow.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/ability_warrior_innerrage.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/inv_shield_06.jpg" alt="" height="14" width="14" />
+
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_shadow_deathcoil.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_shadow_metamorphosis.jpg" alt="" height="14" width="14" />
+
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/ability_hunter_beasttaming.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/ability_marksmanship.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/ability_hunter_swiftstrike.jpg" alt="" height="14" width="14" />
+
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_nature_lightning.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_nature_lightningshield.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_nature_magicimmunity.jpg" alt="" height="14" width="14" />
+
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_holy_holybolt.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_holy_devotionaura.jpg" alt="" height="14" width="14" />
+<img class="spec" src="http://cdn.warmane.com/wotlk/icons/medium/spell_holy_auraoflight.jpg" alt="" height="14" width="14" />

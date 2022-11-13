@@ -1,0 +1,223 @@
+Weapons: 
+
+Berserking - &ench=3789 
+
+50 Spell Power - &ench=3830 
+
+Mongoose - &ench=2673 
+
+63 Spell Power - &ench=3834 
+
+Black Magic - &ench=3790 
+
+50 Attack Power - &ench=1606 
+
+Rune of the Fallen Crusader (DK) - &ench=3370 
+
+Rune of Razorice (DK) - &ench=3370 
+
+Rune of Cinderglacier (DK) - &ench=3370 
+
+Rune of the Nerubian Carapace (DK)- &ench=3883 
+
+Rune of the Stoneskin Gargoyle (DK) - &ench=3847 
+
+Titanium Weapon Chain - &ench=3731 
+
+30 Intellect - &ench=2666 
+
+ 
+
+2H Weapons: 
+
+85 Attack Power - &ench=3828 
+
+110 Attack Power - &ench=3827 
+
+ 
+
+Ranged Weapons: 
+
+40 Ranged Critical Strike - &ench=3608  
+
+ 
+
+Head: 
+
+50 Attack Power 20 Resilience - &ench=3795 
+
+50 Attack Power 20 Critical Strike - &ench=3817 
+
+30 Spell Power 20 Critical Strike - &ench=3820 
+
+29 Spell Power 20 Resilience - &ench=3797 
+
+37 Stamina 20 Defense - &ench=3818 
+
+30 Spell Power and 10mp5 - &ench=3819 
+
+ 
+
+Shoulders: 
+
+23 Spell Power 15 Resilience - &ench=3794 
+
+24 Spell Power 15 Critical Strike - &ench=3810 
+
+40 Attack Power 15 Resilience - &ench=3810 
+
+40 Attack Power 15 Critical Strike - &ench=3808 
+
+20 Dodge 15 Defense - &ench=3811 
+
+24 Spell Power 8/mp5 - &ench=3809 
+
+60 Dodge 15 Defense - &ench=3837 
+
+70 Spell Power 15 Critical Strike - &ench=3838 
+
+120 Attack Power 15 Critical Strike - &ench=3835 
+
+70 Spell Power 8/mp5 - &ench=3836 
+
+ 
+
+Back : 
+
+15 Haste - &ench=3825 
+
+23 Haste - &ench=3831 
+
+225 Armor - &ench=3294 
+
+22 Agility - &ench=1099 
+
+Lightweave Embroidery (Tailoring) - &ench=3722 
+
+Flexweave Underlay (Engineering) - &ench=3605 
+
+16 Defense - &ench=1951 
+
+35 Spell Penetration - &ench=3243 
+
+27 Spell Power (Engineering) - &ench=3859 
+
+Darkglow Embroidery - &ench=3728 
+
+Swordguard Embroidery - &ench=3730 
+
+Shadow Armor –&ench=3256 
+
+16 Agility –  
+
+Wisdom –  
+
+ 
+
+ Chest: 
+
+8 All Stats - &ench=3252 
+
+22 Defense - &ench=1953 
+
+10/mp5 - &ench=2381 
+
+250 Mana - &ench=3233 
+
+20 Resilience - &ench=3245 
+
+10 All Stats - &ench=3832 
+
+275 Health - &ench=3297 
+
+ 
+
+Bracers: 
+
+16 Intelect - &ench=1119 
+
+30 Spell Power - &ench=2332 
+
+40 Stamina -  &ench=3850 
+
+50 Attack Power - &ench=3845 
+
+23 Spell Power - &ench=2326 
+
+38 Attack Power - &ench=1600 
+
+130 Attack Power (LW) - &ench=3756 
+
+76 Spell Power (LW) - &ench=3758 
+
+102 Stamina (LW) -  &ench=3757 
+
+ 
+
+Legs: 
+
+75 Attack Power 22 Critical Strike - &ench=3823 
+
+55 Stamina 22 Agility - &ench=3822 
+
+50 Spell Power 30 Stamina - &ench=3873 
+
+50 Spell Power 20 Spirit - &ench=3719 
+
+35 Spell Power 20 Stamina - &ench=3720 
+
+35 Spell Power 12 Spirit - &ench=3718 
+
+55 Attack Power 15 Critical Strike - &ench=3326 
+
+45 Stamina 12 Agility - &ench=3325 
+
+ 
+
+Hands: 
+
+18 Stamina - &ench=3330 
+
+28 Spell Power - &ench=3246 
+
+Hand-Mounted Pyro Rocket - &ench=3603 
+
+20 Hit - &ench=3234 
+
+Hyperspeed Accelerators - &ench=3604 
+
+2% Threat and 10 Parry - &ench=3253 
+
+35 Attack Power - &ench=3829 
+
+44 Attack Power - &ench=1603 
+
+15 Expertise - &ench=3231 
+
+20 Agility - &ench=3222 
+
+ 
+
+Boots: 
+
+Tuskar’s Vitality - &ench=3232 
+
+Icewalker - &ench=3826 
+
+Nitro Boots - &ench=3606 
+
+7 HP and Mana/5sec - &ench=3244 
+
+22 Stamina - &ench=1075 
+
+ 
+
+Rings: 
+
+40 Attack Power (Ench) - &ench=3839 
+
+23 Spell Power (Ench) - &ench=3840 
+
+30 Stamina (Ench) - &ench=3791 
+
+ 
